@@ -1,4 +1,4 @@
-# BadgeButton [![](https://jitpack.io/v/czy1121/badgebutton.svg)](https://jitpack.io/#czy1121/badgebutton)
+# BadgeButton [![](https://jitpack.io/v/xiedong11/badgebutton.svg)](https://jitpack.io/#czy1121/badgebutton)
  
 带有徽标(数字，小红点)的按钮
 
